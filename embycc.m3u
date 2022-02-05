@@ -1,0 +1,237 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV1.png" group-title="央视",CCTV1 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000457
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV2.png" group-title="央视",CCTV2 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000061
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV3.png" group-title="央视",CCTV3 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV4.png" group-title="央视",CCTV4 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000063
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV5.png" group-title="央视",CCTV5 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV5+.png" group-title="央视",CCTV5+ 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV6.png" group-title="央视",CCTV6 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000065
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV7.png" group-title="央视",CCTV7 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000127
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV8.png" group-title="央视",CCTV8 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000066
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV9.png" group-title="央视",CCTV9 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000128
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV10.png" group-title="央视",CCTV10 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000130
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV11.png" group-title="央视",CCTV11 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000129
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV13.png" group-title="央视",CCTV13 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV14.png" group-title="央视",CCTV14 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000132
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV15.png" group-title="央视",CCTV15 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000133
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV17.png" group-title="央视",CCTV17 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000204
+#EXTINF:-1 tvg-id="45" tvg-name="CCTV世界地理" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV世界地理.png" group-title="央视",CCTV世界地理 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000177
+#EXTINF:-1 tvg-id="46" tvg-name="CCTV女性时尚" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV女性时尚.png" group-title="央视",CCTV女性时尚 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000176
+#EXTINF:-1 tvg-id="47" tvg-name="CCTV文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV文化精品.png" group-title="央视",CCTV文化精品 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000178
+#EXTINF:-1 tvg-id="48" tvg-name="CCTV电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV电视指南.png" group-title="央视",CCTV电视指南 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000164
+#EXTINF:-1 tvg-id="49" tvg-name="CCTV证券资讯" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CCTV证券资讯.png" group-title="央视",CCTV证券资讯 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000310
+#EXTINF:-1 tvg-id="50" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CGTN.png" group-title="央视",CGTN 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000134
+#EXTINF:-1 tvg-id="51" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CGTN.png" group-title="央视",CGTN 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000305
+#EXTINF:-1 tvg-id="52" tvg-name="CGTN俄语" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CGTN俄语.png" group-title="央视",CGTN俄语 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000309
+#EXTINF:-1 tvg-id="53" tvg-name="CGTN法语" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CGTN法语.png" group-title="央视",CGTN法语 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000307
+#EXTINF:-1 tvg-id="54" tvg-name="CGTN西语" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CGTN西语.png" group-title="央视",CGTN西语 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000306
+#EXTINF:-1 tvg-id="55" tvg-name="CGTN阿语" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/CGTN阿语.png" group-title="央视",CGTN阿语 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000308
+#EXTINF:-1 tvg-id="56" tvg-name="中国天气" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/中国天气.png" group-title="地方",中国天气 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000160
+#EXTINF:-1 tvg-id="17" tvg-name="中国教育1" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/中国教育1.png" group-title="地方",中国教育1 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000135
+#EXTINF:-1 tvg-id="18" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/dongfang.png" group-title="卫视",东方卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000093
+#EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/beijing.png" group-title="卫视",北京卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000083
+#EXTINF:-1 tvg-id="20" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/jilin.png" group-title="卫视",吉林卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000097
+#EXTINF:-1 tvg-id="21" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/sichuan.png" group-title="卫视",四川卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000103
+#EXTINF:-1 tvg-id="22" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/tianjin.png" group-title="卫视",天津卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000084
+#EXTINF:-1 tvg-id="23" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/anhui.png" group-title="卫视",安徽卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000096
+#EXTINF:-1 tvg-id="24" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/shandong.png" group-title="卫视",山东卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000099
+#EXTINF:-1 tvg-id="25" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/guangdong.png" group-title="卫视",广东卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000092
+#EXTINF:-1 tvg-id="26" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/guangxi.png" group-title="卫视",广西卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000116
+#EXTINF:-1 tvg-id="27" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/jiangsu.png" group-title="卫视",江苏卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000085
+#EXTINF:-1 tvg-id="28" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/jiangxi.png" group-title="卫视",江西卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000098
+#EXTINF:-1 tvg-id="29" tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/hebei.png" group-title="卫视",河北卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000108
+#EXTINF:-1 tvg-id="30" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/zhejiang.png" group-title="卫视",浙江卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000094
+#EXTINF:-1 tvg-id="31" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/shenzhen.png" group-title="卫视",深圳卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000100
+#EXTINF:-1 tvg-id="32" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/hubei.png" group-title="卫视",湖北卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000102
+#EXTINF:-1 tvg-id="33" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/hunan.png" group-title="卫视",湖南卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000086
+#EXTINF:-1 tvg-id="34" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/guizhou.png" group-title="卫视",贵州卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000101
+#EXTINF:-1 tvg-id="35" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/liaoning.png" group-title="卫视",辽宁卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000058
+#EXTINF:-1 tvg-id="36" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/chongqing.png" group-title="卫视",重庆卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000107
+#EXTINF:-1 tvg-id="37" tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/heilongjiang.png" group-title="卫视",黑龙江卫视 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000095
+#EXTINF:-1 tvg-id="38" tvg-name="Hot风尚音乐" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/Hot风尚音乐.png" group-title="地方",Hot风尚音乐 2M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000294
+#EXTINF:-1 tvg-id="39" tvg-name="北京冬奥纪实" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/北京冬奥纪实.png" group-title="地方",北京冬奥纪实 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000113
+#EXTINF:-1 tvg-id="40" tvg-name="辽宁公共" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/辽宁公共.png" group-title="地方",辽宁公共 8M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
+#EXTINF:-1 tvg-id="41" tvg-name="辽宁经济" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/辽宁经济.png" group-title="地方",辽宁经济 8M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
+#EXTINF:-1 tvg-id="42" tvg-name="大连新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/大连新闻综合.png" group-title="地方",大连新闻综合 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
+#EXTINF:-1 tvg-id="43" tvg-name="沈阳新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/沈阳新闻综合.png" group-title="地方",沈阳新闻综合 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
+#EXTINF:-1 tvg-id="44" tvg-name="鞍山新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/鞍山新闻综合.png" group-title="地方",鞍山新闻综合 4M1080
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000274
+#EXTINF:-1 tvg-id="57" tvg-name="中央新影发现之旅" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/中央新影发现之旅.png" group-title="地方",中央新影发现之旅 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000151
+#EXTINF:-1 tvg-id="58" tvg-name="中央新影新科动漫" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/中央新影新科动漫.png" group-title="地方",中央新影新科动漫 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000218
+#EXTINF:-1 tvg-id="59" tvg-name="中央新影老故事" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/中央新影老故事.png" group-title="地方",中央新影老故事 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000166
+#EXTINF:-1 tvg-id="60" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/yunnan.png" group-title="卫视",云南卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000115
+#EXTINF:-1 tvg-id="61" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/neimenggu.png" group-title="卫视",内蒙古卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000110
+#EXTINF:-1 tvg-id="62" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/ningxia.png" group-title="卫视",宁夏卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000118
+#EXTINF:-1 tvg-id="63" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/shanxi.png" group-title="卫视",山西卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000109
+#EXTINF:-1 tvg-id="64" tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/xinjiang.png" group-title="卫视",新疆卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000150
+#EXTINF:-1 tvg-id="65" tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/henan.png" group-title="卫视",河南卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000104
+#EXTINF:-1 tvg-id="66" tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/gansu.png" group-title="卫视",甘肃卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000119
+#EXTINF:-1 tvg-id="67" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/xizang.png" group-title="卫视",西藏卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000121
+#EXTINF:-1 tvg-id="68" tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/shannxi.png" group-title="卫视",陕西卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000114
+#EXTINF:-1 tvg-id="69" tvg-name="吉林延边卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/yanbian.png" group-title="卫视",吉林延边卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000117
+#EXTINF:-1 tvg-id="70" tvg-name="山东教育卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/山东教育卫视.png" group-title="卫视",山东教育卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000112
+#EXTINF:-1 tvg-id="71" tvg-name="新疆兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/新疆兵团卫视.png" group-title="卫视",新疆兵团卫视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000124
+#EXTINF:-1 tvg-id="72" tvg-name="NNM家庭理财" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/NNM家庭理财.png" group-title="地方",NNM家庭理财 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000139
+#EXTINF:-1 tvg-id="73" tvg-name="NNM新动漫" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/NNM新动漫.png" group-title="地方",NNM新动漫 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000140
+#EXTINF:-1 tvg-id="74" tvg-name="NNM游戏竞技" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/NNM游戏竞技.png" group-title="地方",NNM游戏竞技 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000142
+#EXTINF:-1 tvg-id="75" tvg-name="NNM电子体育" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/NNM电子体育.png" group-title="地方",NNM电子体育 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000143
+#EXTINF:-1 tvg-id="76" tvg-name="NNM网络棋牌" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/NNM网络棋牌.png" group-title="地方",NNM网络棋牌 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000141
+#EXTINF:-1 tvg-id="77" tvg-name="SiTV法治天地" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/SiTV法治天地.png" group-title="地方",SiTV法治天地 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000162
+#EXTINF:-1 tvg-id="78" tvg-name="北京卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/北京卡酷少儿.png" group-title="地方",北京卡酷少儿 404
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000106
+#EXTINF:-1 tvg-id="79" tvg-name="吉林篮球" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/吉林篮球.png" group-title="地方",吉林篮球 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000237
+#EXTINF:-1 tvg-id="80" tvg-name="山东收藏天下" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/山东收藏天下.png" group-title="地方",山东收藏天下 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000155
+#EXTINF:-1 tvg-id="81" tvg-name="江苏财富天下" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/江苏财富天下.png" group-title="地方",江苏财富天下 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000231
+#EXTINF:-1 tvg-id="82" tvg-name="江苏靓妆" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/江苏靓妆.png" group-title="地方",江苏靓妆 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000179
+#EXTINF:-1 tvg-id="83" tvg-name="江西陶瓷" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/江西陶瓷.png" group-title="地方",江西陶瓷 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000175
+#EXTINF:-1 tvg-id="84" tvg-name="河南文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/河南文物宝库.png" group-title="地方",河南文物宝库 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000165
+#EXTINF:-1 tvg-id="85" tvg-name="湖北休闲指南" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/湖北休闲指南.png" group-title="地方",湖北休闲指南 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000156
+#EXTINF:-1 tvg-id="86" tvg-name="湖南武术世界" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/湖南武术世界.png" group-title="地方",湖南武术世界 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000182
+#EXTINF:-1 tvg-id="87" tvg-name="湖南茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/湖南茶频道.png" group-title="地方",湖南茶频道 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000181
+#EXTINF:-1 tvg-id="88" tvg-name="湖南金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/湖南金鹰卡通.png" group-title="地方",湖南金鹰卡通 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000105
+#EXTINF:-1 tvg-id="89" tvg-name="甘肃家政" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/甘肃家政.png" group-title="地方",甘肃家政 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000167
+#EXTINF:-1 tvg-id="90" tvg-name="贵州天元围棋" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/贵州天元围棋.png" group-title="地方",贵州天元围棋 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000144
+#EXTINF:-1 tvg-id="91" tvg-name="贵州摄影" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/贵州摄影.png" group-title="地方",贵州摄影 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000222
+#EXTINF:-1 tvg-id="92" tvg-name="中华特产" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/中华特产.png" group-title="地方",中华特产 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000158
+#EXTINF:-1 tvg-id="93" tvg-name="书画频道" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/书画频道.png" group-title="地方",书画频道 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000180
+#EXTINF:-1 tvg-id="94" tvg-name="北广优优宝贝" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/北广优优宝贝.png" group-title="地方",北广优优宝贝 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000153
+#EXTINF:-1 tvg-id="95" tvg-name="北广四海钓鱼" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/北广四海钓鱼.png" group-title="地方",北广四海钓鱼 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000229
+#EXTINF:-1 tvg-id="96" tvg-name="北广车迷" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/北广车迷.png" group-title="地方",北广车迷 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000146
+#EXTINF:-1 tvg-id="97" tvg-name="北方导视" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/北方导视.png" group-title="地方",北方导视 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000187
+#EXTINF:-1 tvg-id="98" tvg-name="国学频道" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/国学频道.png" group-title="地方",国学频道 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000169
+#EXTINF:-1 tvg-id="99" tvg-name="环球旅游" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/环球旅游.png" group-title="地方",环球旅游 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000147
+#EXTINF:-1 tvg-id="100" tvg-name="生态环境" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/生态环境.png" group-title="地方",生态环境 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000149
+#EXTINF:-1 tvg-id="101" tvg-name="重庆汽摩" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/重庆汽摩.png" group-title="地方",重庆汽摩 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000168
+#EXTINF:-1 tvg-id="102" tvg-name="辽宁体育" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/辽宁体育.png" group-title="地方",辽宁体育 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000072
+#EXTINF:-1 tvg-id="103" tvg-name="辽宁北方" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/辽宁北方.png" group-title="地方",辽宁北方 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
+#EXTINF:-1 tvg-id="104" tvg-name="辽宁影视剧" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/辽宁影视剧.png" group-title="地方",辽宁影视剧 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
+#EXTINF:-1 tvg-id="105" tvg-name="辽宁教育青少" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/辽宁教育青少.png" group-title="地方",辽宁教育青少 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
+#EXTINF:-1 tvg-id="106" tvg-name="辽宁生活" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/辽宁生活.png" group-title="地方",辽宁生活 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
+#EXTINF:-1 tvg-id="107" tvg-name="辽宁都市" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/辽宁都市.png" group-title="地方",辽宁都市 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068
+#EXTINF:-1 tvg-id="108" tvg-name="辽阳新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/辽阳新闻综合.png" group-title="地方",辽阳新闻综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000280
+#EXTINF:-1 tvg-id="109" tvg-name="丹东新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/丹东新闻综合.png" group-title="地方",丹东新闻综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000276
+#EXTINF:-1 tvg-id="110" tvg-name="抚顺综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/抚顺综合.png" group-title="地方",抚顺综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000275
+#EXTINF:-1 tvg-id="111" tvg-name="朝阳新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/朝阳新闻综合.png" group-title="地方",朝阳新闻综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000282
+#EXTINF:-1 tvg-id="112" tvg-name="本溪综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/本溪综合.png" group-title="地方",本溪综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000312
+#EXTINF:-1 tvg-id="113" tvg-name="盘锦新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/盘锦新闻综合.png" group-title="地方",盘锦新闻综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000283
+#EXTINF:-1 tvg-id="114" tvg-name="营口新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/营口新闻综合.png" group-title="地方",营口新闻综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000278
+#EXTINF:-1 tvg-id="115" tvg-name="葫芦岛新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/葫芦岛新闻综合.png" group-title="地方",葫芦岛新闻综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000284
+#EXTINF:-1 tvg-id="116" tvg-name="铁岭新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/铁岭新闻综合.png" group-title="地方",铁岭新闻综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281
+#EXTINF:-1 tvg-id="117" tvg-name="锦州新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/锦州新闻综合.png" group-title="地方",锦州新闻综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
+#EXTINF:-1 tvg-id="118" tvg-name="阜新综合" tvg-logo="https://cdn.jsdelivr.net/gh/qcgzxw/MyIPTV@main/logo/阜新综合.png" group-title="地方",阜新综合 576
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
